@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0125-valid-palindrome) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Array
 |  |
 | ------- |
