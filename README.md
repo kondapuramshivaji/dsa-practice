@@ -10,4 +10,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
