@@ -16,5 +16,6 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
