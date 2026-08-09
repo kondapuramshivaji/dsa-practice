@@ -1,5 +1,5 @@
 # dsa-practice
-![Leetcode Stats](https://leetcode-stats-card.vercel.app/api?username=shivaji_kondapuram)
+![LeetCode Stats](https://leetcard.jacoblin.cool/shivaji_kondapuram?theme=dark&font=Karma&ext=heatmap)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
