@@ -1,4 +1,5 @@
 # dsa-practice
+![Leetcode Stats](https://leetcode-stats-card.vercel.app/api?username=shivaji_kondapuram)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
