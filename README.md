@@ -22,6 +22,7 @@
 | [0075-sort-colors](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0485-max-consecutive-ones) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
