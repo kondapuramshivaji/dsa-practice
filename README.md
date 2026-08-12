@@ -24,6 +24,7 @@
 | [0136-single-number](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -81,6 +82,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -88,11 +90,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
