@@ -27,6 +27,7 @@
 | [0229-majority-element-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -46,6 +47,7 @@
 | [0001-two-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
