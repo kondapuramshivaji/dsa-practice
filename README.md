@@ -21,6 +21,7 @@
 | [0053-maximum-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -103,4 +105,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
