@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0125-valid-palindrome) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Bit Manipulation
 |  |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
