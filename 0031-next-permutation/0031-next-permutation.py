@@ -5,7 +5,7 @@ class Solution:
             if nums[i-1]<nums[i]:
                 x=i-1
                 break
-        if x!=-1:
+        if x>=0:
             for j in range(len(nums)-1,x,-1):
                 if nums[j]>nums[x]:
                     nums[j],nums[x]=nums[x],nums[j]
