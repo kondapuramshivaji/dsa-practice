@@ -33,6 +33,7 @@
 | [0169-majority-element](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0485-max-consecutive-ones](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0724-find-pivot-index) |
