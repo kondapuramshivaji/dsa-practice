@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -33,6 +34,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0229-majority-element-ii) |
@@ -114,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/kondapuramshivaji/dsa-practice/tree/master/1004-max-consecutive-ones-iii) |
