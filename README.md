@@ -27,6 +27,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,9 +137,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kondapuramshivaji/dsa-practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/kondapuramshivaji/dsa-practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
